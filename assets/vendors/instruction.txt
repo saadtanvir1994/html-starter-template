@@ -1,0 +1,1 @@
+You can download and reside all vendors directories in this folders like bootstrap, font-awesome etc.
